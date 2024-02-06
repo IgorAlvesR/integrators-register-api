@@ -1,0 +1,175 @@
+{
+  "integrators": [
+    {
+      "id": "1",
+      "cpfCnpj": "61185671000150",
+      "integratorName": "Graham, Gerlach and Wisoky",
+      "ownerName": "Igor Alves",
+      "city": "West Annabellchester",
+      "state": "SC",
+      "panelBrand": [
+        "trina-solar",
+        "ja-solar"
+      ],
+      "companySize": "Pequena"
+    },
+    {
+      "id": "2",
+      "cpfCnpj": "68268918994",
+      "integratorName": "Boyer and Sons",
+      "ownerName": "Aileen Connelly",
+      "city": "Port Lonie",
+      "state": "SC",
+      "panelBrand": [
+        "trina-solar",
+        "ja-solar"
+      ],
+      "companySize": "Media"
+    },
+    {
+      "id": "3",
+      "cpfCnpj": "25366617805",
+      "integratorName": "Haley, Goyette and Schinner",
+      "ownerName": "Gail Rohan",
+      "city": "East Everett",
+      "state": "AL",
+      "panelBrand": [
+        "ja-solar"
+      ],
+      "companySize": "Grande"
+    },
+    {
+      "id": "4",
+      "cpfCnpj": "11183445162",
+      "integratorName": "Hegmann LLC",
+      "ownerName": "Adelbert Romaguera",
+      "city": "South Jeff",
+      "state": "RJ",
+      "panelBrand": [
+        "gcl-si"
+      ],
+      "companySize": "Grande"
+    },
+    {
+      "id": "5",
+      "cpfCnpj": "50994787203",
+      "integratorName": "Swift-Hodkiewicz",
+      "ownerName": "Jayda Kessler",
+      "city": "Lake Watsonmouth",
+      "state": "SP",
+      "panelBrand": [
+        "jinko-solar",
+        "ja-solar"
+      ],
+      "companySize": "Pequena"
+    },
+    {
+      "id": "6",
+      "cpfCnpj": "49874651701",
+      "integratorName": "Brakus and Sons",
+      "ownerName": "Vincenzo Moen",
+      "city": "Lake Romaine",
+      "state": "SC",
+      "panelBrand": [
+        "trina-solar",
+        "ja-solar"
+      ],
+      "companySize": "Grande"
+    },
+    {
+      "id": "7",
+      "cpfCnpj": "17276291594",
+      "integratorName": "Howell Inc",
+      "ownerName": "Dorothea Waters",
+      "city": "Port Talon",
+      "state": "SC",
+      "panelBrand": [
+        "canadian-solar",
+        "trina-solar",
+        "ja-solar"
+      ],
+      "companySize": "Grande"
+    },
+    {
+      "id": "8",
+      "cpfCnpj": "44503546739",
+      "integratorName": "Witting, Runte and Greenholt",
+      "ownerName": "Raquel Mills",
+      "city": "Lake Jennyfer",
+      "state": "GO",
+      "panelBrand": [
+        "hanwha-qcells",
+        "trina-solar",
+        "ja-solar"
+      ],
+      "companySize": "Pequena"
+    },
+    {
+      "id": "9",
+      "cpfCnpj": "82906157248",
+      "integratorName": "Fadel-Luettgen",
+      "ownerName": "Winfield Kuphal",
+      "city": "Port Rachael",
+      "state": "MS",
+      "panelBrand": [
+        "hanwha-qcells",
+        "trina-solar",
+        "ja-solar"
+      ],
+      "companySize": "Grande"
+    },
+    {
+      "id": "10",
+      "cpfCnpj": "29095308038",
+      "integratorName": "Hessel, Lang and Bartell",
+      "ownerName": "Candace Keeling",
+      "city": "Lake Ahmad",
+      "state": "RR",
+      "panelBrand": [
+        "jinko-solar",
+        "ja-solar"
+      ],
+      "companySize": "Pequena"
+    },
+    {
+      "id": "11",
+      "cpfCnpj": "76236826409",
+      "integratorName": "Terry Group",
+      "ownerName": "Roscoe Reichel",
+      "city": "Lake Roosevelt",
+      "state": "RS",
+      "panelBrand": [
+        "gcl-si",
+        "trina-solar",
+        "ja-solar"
+      ],
+      "companySize": "Media"
+    },
+    {
+      "id": "12",
+      "cpfCnpj": "94671759065",
+      "integratorName": "Johnston, Lynch and Kiehn",
+      "ownerName": "Lillie Jacobi",
+      "city": "North Aracely",
+      "state": "SC",
+      "panelBrand": [
+        "trina-solar",
+        "ja-solar"
+      ],
+      "companySize": "Media"
+    },
+    {
+      "cpfCnpj": "101.960.839-07",
+      "integratorName": "Igor Alves R",
+      "ownerName": "Thayane",
+      "city": "Tubarão",
+      "state": "SP",
+      "panelBrand": [
+        "trina-solar",
+        "canadian-solar"
+      ],
+      "companySize": "Grande",
+      "id": "3f4h9vX"
+    }
+  ]
+}

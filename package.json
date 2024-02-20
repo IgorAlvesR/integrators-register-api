@@ -1,8 +1,15 @@
 {
-  "scripts": {
-    "start": "json-server --watch -p 3001 --delay 500 --no-cors server.json"
+  "name": "api-integrators",
+  "version": "1.0.0",
+  "description": "Api de integradores",
+  "license": "MIT",
+  "scripts": {        
+    "start": "node api/server.js"
   },
-  "devDependencies": {
-    "json-server": "^0.17.3"
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "engines": {
+    "node": "18"
   }
 }

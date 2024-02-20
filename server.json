@@ -1,16 +1,53 @@
 {
   "integrators": [
     {
-      "cpfCnpj": "082.289.019-41",
-      "integratorName": "Thayane",
-      "ownerName": "Gail Rohan",
-      "city": "East Everett",
-      "state": "RJ",
+      "cpfCnpj": "101.960.839-07",
+      "integratorName": "Graham, Gerlach and Wisoky",
+      "ownerName": "Igor Alves",
+      "city": "West Annabellchester",
+      "state": "SC",
       "panelBrand": [
         "ja-solar"
       ],
-      "companySize": "Grande",
-      "id": "3"
+      "companySize": "Pequena",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "cpfCnpj": "68268918994",
+      "integratorName": "Boyer and Sons",
+      "ownerName": "Aileen Connelly",
+      "city": "Port Lonie",
+      "state": "SC",
+      "panelBrand": [
+        "trina-solar",
+        "ja-solar"
+      ],
+      "companySize": "Media"
+    },
+    {
+      "id": "3",
+      "cpfCnpj": "25366617805",
+      "integratorName": "Haley, Goyette and Schinner",
+      "ownerName": "Gail Rohan",
+      "city": "East Everett",
+      "state": "AL",
+      "panelBrand": [
+        "ja-solar"
+      ],
+      "companySize": "Grande"
+    },
+    {
+      "id": "4",
+      "cpfCnpj": "11183445162",
+      "integratorName": "Hegmann LLC",
+      "ownerName": "Adelbert Romaguera",
+      "city": "South Jeff",
+      "state": "RJ",
+      "panelBrand": [
+        "gcl-si"
+      ],
+      "companySize": "Grande"
     },
     {
       "id": "5",
@@ -26,6 +63,19 @@
       "companySize": "Pequena"
     },
     {
+      "id": "6",
+      "cpfCnpj": "49874651701",
+      "integratorName": "Brakus and Sons",
+      "ownerName": "Vincenzo Moen",
+      "city": "Lake Romaine",
+      "state": "SC",
+      "panelBrand": [
+        "trina-solar",
+        "ja-solar"
+      ],
+      "companySize": "Grande"
+    },
+    {
       "id": "7",
       "cpfCnpj": "17276291594",
       "integratorName": "Howell Inc",
@@ -38,6 +88,20 @@
         "ja-solar"
       ],
       "companySize": "Grande"
+    },
+    {
+      "id": "8",
+      "cpfCnpj": "44503546739",
+      "integratorName": "Witting, Runte and Greenholt",
+      "ownerName": "Raquel Mills",
+      "city": "Lake Jennyfer",
+      "state": "GO",
+      "panelBrand": [
+        "hanwha-qcells",
+        "trina-solar",
+        "ja-solar"
+      ],
+      "companySize": "Pequena"
     },
     {
       "id": "9",
@@ -105,33 +169,6 @@
       ],
       "companySize": "Grande",
       "id": "3f4h9vX"
-    },
-    {
-      "cpfCnpj": "101.960.839-07",
-      "integratorName": "Igor",
-      "ownerName": "Thay",
-      "city": "Tubarão",
-      "state": "SC",
-      "panelBrand": [
-        "jinko-solar",
-        "ja-solar"
-      ],
-      "companySize": "Media",
-      "id": "AIIfsvb"
-    },
-    {
-      "cpfCnpj": "082.289.019-41",
-      "integratorName": "Thayane",
-      "ownerName": "Igor Alves",
-      "city": "Imbituba",
-      "state": "SC",
-      "panelBrand": [
-        "jinko-solar",
-        "trina-solar",
-        "canadian-solar"
-      ],
-      "companySize": "Grande",
-      "id": "9r_GuF9"
     }
   ]
 }
